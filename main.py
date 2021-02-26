@@ -8,7 +8,8 @@ students = {
     "Samantha" : [76, 94, 90, 73, 84, 55],
     "Patrick" : [85, 84, 80, 72, 91, 89]
 }
-
+# Testing Github
+print("github")
 # Get each student's average grade
 for student, grades in students.items():
 
